@@ -1,3 +1,7 @@
 main(){
-	print("hellow word");
+	print("hellow word")
+};
+
+method(){
+	print("ceshi")
 };
